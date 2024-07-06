@@ -22,7 +22,7 @@ class BinarySearchEx{
 	
 	public static void main(String[] args) {
 	    int[] elements = { 1, 23, 43, 46, 78, 90 };
-		int elementToBeSearched = 23;
+		int elementToBeSearched = 43;
 		
 		int indexPosition=searchElement(elements, 0, elements.length-1, elementToBeSearched);
 		
