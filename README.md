@@ -12,3 +12,4 @@ Queue Interface
 AOA
 Searching Algorithms
 Sorting Algorithms
+Algorithm Techniques
